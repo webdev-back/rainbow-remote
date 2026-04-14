@@ -1,2 +1,6 @@
 Brown is not a color in the ranbow.
+<<<<<<< HEAD
 Gray is not a color in the rainbow.
+=======
+Black is not a color in the rainbow.
+>>>>>>> c07c4de (black)
